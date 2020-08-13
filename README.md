@@ -7,6 +7,6 @@ When using a tiling window manager, it can be frustrating when you just want to 
 ## Installation
 The easiest way to use this script is to add it directly to your .bashrc. This can be done manually or automatically by running this command from the directory you download wdt.sh to:
 
-'''
+```
 cat wdt.sh >> ~/.bashrc
-'''
+```
